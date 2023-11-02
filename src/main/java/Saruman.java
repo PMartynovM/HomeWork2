@@ -3,6 +3,7 @@ public class Saruman {
         int soldiers = 88;
         int orcs = 200;
         int army = soldiers + orcs;
+
         System.out.println("Общая армия " + army);
     }
 }
